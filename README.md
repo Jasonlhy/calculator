@@ -1,5 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+[![Build Status](https://jasonlhy.visualstudio.com/calculator-demo/_apis/build/status/Jasonlhy.calculator?branchName=master)](https://jasonlhy.visualstudio.com/calculator-demo/_build/latest?definitionId=3&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
